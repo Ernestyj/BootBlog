@@ -1,0 +1,48 @@
+buildscript {
+	ext {
+		springBootVersion = '1.4.1.RELEASE'
+		springfoxVersion = '2.6.1'
+		mybatisSpringVersion='1.1.1'
+	}
+	repositories {
+		mavenCentral()
+	}
+	dependencies {
+		classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+	}
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+apply plugin: 'spring-boot'
+
+jar {
+	baseName = 'BootBlog'
+	version = '0.0.1-SNAPSHOT'
+}
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+	mavenCentral()
+	jcenter()
+}
+
+
+dependencies {
+	compile('org.mybatis.spring.boot:mybatis-spring-boot-starter:1.1.1')
+	compile('org.springframework.boot:spring-boot-starter-security')
+	compile('org.springframework.boot:spring-boot-starter-thymeleaf')
+	compile('org.springframework.boot:spring-boot-starter-web')
+	testCompile('org.springframework.boot:spring-boot-starter-test')
+
+	compile("org.mybatis.spring.boot:mybatis-spring-boot-starter:${mybatisSpringVersion}")
+
+	compile 'mysql:mysql-connector-java:5.1.38'
+
+	compile 'com.zaxxer:HikariCP:2.5.1' //数据库连接池
+
+	compile "io.springfox:springfox-swagger2:${springfoxVersion}"
+	compile "io.springfox:springfox-swagger-ui:${springfoxVersion}"
+}
