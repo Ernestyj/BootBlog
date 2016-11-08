@@ -1,5 +1,6 @@
 server:
     port: 8080
+    contextPath:
     compression:
         min-response-size: 512
         enabled: true
@@ -40,6 +41,3 @@ security:
     ignored: /**
 #    basic:
 #        enabled: false
-#    user:
-#        name: admin
-#        password: admin

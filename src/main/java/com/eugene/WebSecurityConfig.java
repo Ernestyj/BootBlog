@@ -12,8 +12,8 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
  * Created by DCLab on 2016/11/7.
  */
 @Configuration
-@EnableGlobalAuthentication
-@EnableWebSecurity
+//@EnableGlobalAuthentication
+//@EnableWebSecurity
 public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
     @Override
