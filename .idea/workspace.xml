@@ -2,31 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b774637-5616-4108-b57a-779f40d03edb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/app.component.js.map" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/app.component.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/app.component.js" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/app.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/app.component.ts" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/app.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/app.module.js.map" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/app.module.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/app.module.ts" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/app.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/dashboard.component.js.map" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/dashboard.component.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/dashboard.component.js" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/dashboard.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/dashboard.component.ts" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/dashboard.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/hero-detail.component.js.map" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/hero-detail.component.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/hero-detail.component.js" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/hero-detail.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/hero-detail.component.ts" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/hero-detail.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/hero.service.js.map" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/hero.service.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/hero.service.js" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/hero.service.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/hero.service.ts" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/hero.service.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/heroes.component.js.map" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/heroes.component.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/heroes.component.js" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/heroes.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/heroes.component.ts" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/heroes.component.ts" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\app-routing.module.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\app-routing.module.js.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\app-routing.module.ts" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\app.component.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\app.component.js.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\app.component.ts" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\app.module.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\app.module.js.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\app.module.ts" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\css\app.component.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\css\dashboard.component.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\css\hero-detail.component.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\css\heroes.component.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\dashboard.component.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\dashboard.component.js.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\dashboard.component.ts" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\hero-detail.component.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\hero-detail.component.js.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\hero-detail.component.ts" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\hero.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\hero.js.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\hero.service.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\hero.service.js.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\hero.service.ts" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\hero.ts" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\heroes.component.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\heroes.component.js.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\heroes.component.ts" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\main.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\main.js.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\main.ts" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\mock-heroes.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\mock-heroes.js.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\mock-heroes.ts" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\template\dashboard.component.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\template\hero-detail.component.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\template\heroes.component.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\package.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\systemjs.config.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\tsconfig.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\app.component.css" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/css/app.component.css" />
-      <change type="MOVED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\dashboard.component.css" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/css/dashboard.component.css" />
-      <change type="MOVED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\dashboard.component.html" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/template/dashboard.component.html" />
-      <change type="MOVED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\hero-detail.component.css" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/css/hero-detail.component.css" />
-      <change type="MOVED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\hero-detail.component.html" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/template/hero-detail.component.html" />
-      <change type="MOVED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\heroes.component.css" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/css/heroes.component.css" />
-      <change type="MOVED" beforePath="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\heroes.component.html" afterPath="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/template/heroes.component.html" />
+      <change type="MOVED" beforePath="E:\ProgramData\BootBlog\src\main\java\com\eugene\WebMVCConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/eugene/WebMvcConfig.java" />
     </list>
     <ignored path="BootBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,7 +71,55 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="BootBlog" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="BootBlog" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Tasks" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="BootBlog" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Tasks" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="application" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
+              </PATH_ELEMENT>
+            </PATH>
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
@@ -57,6 +128,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -517,10 +596,20 @@
         <option value="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/dashboard.component.ts" />
         <option value="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/app.component.ts" />
         <option value="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/heroes.component.ts" />
-        <option value="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/app.module.ts" />
         <option value="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/hero-detail.component.ts" />
-        <option value="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/hero.service.ts" />
         <option value="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/src/main/resources/angular-quickstart/app/hero.service.ts" />
+        <option value="$PROJECT_DIR$/angular-quickstart/app/hero.ts" />
+        <option value="$PROJECT_DIR$/angular-quickstart/app/dashboard.component.ts" />
+        <option value="$PROJECT_DIR$/angular-quickstart/app/hero.service.ts" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eugene/model/Hero.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eugene/controller/MockController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eugene/WebMvcConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eugene/mapper/HeroMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eugene/service/HeroService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eugene/service/HeroServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eugene/controller/HeroController.java" />
       </list>
     </option>
   </component>
@@ -551,7 +640,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -567,6 +656,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -616,10 +708,6 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -639,109 +727,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="angular-quickstart" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BootBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BootBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-quickstart" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BootBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BootBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-quickstart" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BootBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BootBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-quickstart" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="eugene" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -770,12 +760,73 @@
               <option name="myItemId" value="eugene" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eugene" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eugene" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -789,7 +840,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -797,6 +848,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -806,7 +860,25 @@
       <recent name="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\css" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.BootBlog [bootRun]">
+    <configuration default="false" name="BootBlog [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -1104,6 +1176,14 @@
       <envs />
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Gradle.BootBlog [bootRun]" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Gradle.BootBlog [bootRun]" />
+      </list>
+    </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -1126,45 +1206,49 @@
       <option name="number" value="Default" />
       <updated>1478698828073</updated>
       <workItem from="1478698843798" duration="2738000" />
-      <workItem from="1478702398598" duration="2320000" />
+      <workItem from="1478702398598" duration="4911000" />
+      <workItem from="1478760027907" duration="121000" />
+      <workItem from="1478760196829" duration="6635000" />
+      <workItem from="1478766895805" duration="778000" />
+      <workItem from="1478767768536" duration="6425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5058000" />
+    <option name="totallyTimeSpent" value="21608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1444" height="886" extended-state="1" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.198939" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32228118" sideWeight="0.50289017" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35543767" sideWeight="0.49710983" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25216764" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21820809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16329479" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17702313" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.198939" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1188,142 +1272,257 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/angular-quickstart/app/dashboard.component.ts">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/controller/HeroController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/controller/HeroController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/controller/HeroController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3205575">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28278688">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.3.RELEASE/f963d559a56e848d01f973e4eb8c2428b6d8a6cd/spring-web-4.3.3.RELEASE-sources.jar!/org/springframework/web/bind/annotation/CrossOrigin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3319672">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/node_modules/@angular/http/src/body.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15883978">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/angular-quickstart/app/app.component.ts">
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.01519337">
+          <caret line="956" column="6" selection-start-line="956" selection-start-column="6" selection-end-line="956" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/dashboard.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60359114">
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/hero.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.063535914">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/hero.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2859116">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1478704105746" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/angular-quickstart/app/heroes.component.ts">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/model/Hero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.76243097">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/angular-quickstart/app/hero-detail.component.ts">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/model/Blog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22237569">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.3.RELEASE/56718cbc3332feeacfc988358d4064510a13a06d/spring-context-4.3.3.RELEASE-sources.jar!/org/springframework/stereotype/Repository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49171272">
+          <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.0/3016ffd7d9d008bf6b230d01de711f9da046d68e/mybatis-3.4.0-sources.jar!/org/apache/ibatis/annotations/Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44475138">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/service/InfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25414366">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/model/Info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.15883978">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/service/InfoServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="24" />
+          <caret line="80" column="15" selection-start-line="80" selection-start-column="15" selection-end-line="80" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.3.3.RELEASE/fc6f6a9856f09e35df726653b8b58620e45cdac3/spring-webmvc-4.3.3.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/CorsRegistration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.80701756">
+          <caret line="65" column="28" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/mapper/BlogMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.1973684">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/WebMvcConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38121548">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/angular-quickstart/app/mock-heroes.ts">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/angular-quickstart/app/main.ts">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/mapper/InfoMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.050438598">
+          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="52" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/angular-quickstart/app/heroes.component.ts">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/mapper/ProjectMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40069687">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.13157895">
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="50" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/angular-quickstart/app/template/dashboard.component.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/mapper/HeroMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.8486842">
+          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/angular-quickstart/app/css/app.component.css">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/service/HeroService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.7565789">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/angular-quickstart/app/hero.ts">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/service/HeroServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.69736844">
+          <caret line="59" column="42" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/angular-quickstart/app/hero-detail.component.ts">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/controller/HeroController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20034844">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/angular-quickstart/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44076654">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.44517544">
+          <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
           <folding>
-            <marker date="1478704105746" expanded="true" signature="-1:-1" placeholder="..." />
+            <element signature="imports" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/angular-quickstart/app/hero.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.042201836">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/angular-quickstart/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3376147">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/angular-quickstart/app/app-routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36062717">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/angular-quickstart/app/dashboard.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36062717">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
