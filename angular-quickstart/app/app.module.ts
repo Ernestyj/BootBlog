@@ -15,6 +15,7 @@ import {HeroSearchService} from "./hero-search.service";
 import { AppRoutingModule }     from './app-routing.module';
 
 import './rxjs-extensions';
+import {HeroFormComponent} from "./component/hero-form.component";
 
 @NgModule({
   imports: [
@@ -28,7 +29,8 @@ import './rxjs-extensions';
     DashboardComponent,
     HeroDetailComponent,
     HeroesComponent,
-    HeroSearchComponent
+    HeroSearchComponent,
+      HeroFormComponent
   ],
   providers: [ HeroService, HeroSearchService ],
   bootstrap: [ AppComponent ]

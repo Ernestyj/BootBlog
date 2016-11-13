@@ -32,6 +32,17 @@ public class HeroServiceImpl implements HeroService {
     }
 
     @Override
+    public Hero getHeroByName(String name) {
+        Hero hero = null;
+        try {
+            hero = heroMapper.selectByName(name);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return hero;
+    }
+
+    @Override
     public int modifyName(int id, String name) {
         int res = 0;
         try {

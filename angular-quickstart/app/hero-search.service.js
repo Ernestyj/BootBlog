@@ -22,11 +22,11 @@ var HeroSearchService = (function () {
             .get("app/heroes/?name=" + term)
             .map(function (r) { return r.json().data; });
     };
+    HeroSearchService = __decorate([
+        core_1.Injectable(), 
+        __metadata('design:paramtypes', [http_1.Http])
+    ], HeroSearchService);
     return HeroSearchService;
 }());
-HeroSearchService = __decorate([
-    core_1.Injectable(),
-    __metadata("design:paramtypes", [http_1.Http])
-], HeroSearchService);
 exports.HeroSearchService = HeroSearchService;
 //# sourceMappingURL=hero-search.service.js.map

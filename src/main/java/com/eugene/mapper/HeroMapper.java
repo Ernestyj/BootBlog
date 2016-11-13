@@ -18,6 +18,13 @@ public interface HeroMapper {
     })
     List<Hero> selectAll() throws Exception;
 
+    @Select({"select id,name",
+            "from hero",
+            "where name=#{name}",
+            "limit 1"
+    })
+    Hero selectByName(@Param("name") String name) throws Exception;
+
     @Update({"update hero set",
             "name = #{name} ",
             "where id = #{id}"

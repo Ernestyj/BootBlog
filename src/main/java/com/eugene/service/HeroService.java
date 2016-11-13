@@ -11,6 +11,8 @@ public interface HeroService {
 
     List<Hero> getHeroes();
 
+    Hero getHeroByName(String name);
+
     int modifyName(int id, String name);
 
     int addHero(Hero hero);

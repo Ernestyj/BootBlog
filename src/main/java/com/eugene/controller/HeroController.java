@@ -16,6 +16,11 @@ public class HeroController {
     @Autowired
     private HeroService heroService;
 
+    @GetMapping(value = "/app/heroes/", params = {"name"})
+    public Hero getHero(@RequestParam String name){
+        return heroService.getHeroByName(name);
+    }
+
     @GetMapping("/app/heroes")
     public List<Hero> getHeroes(){
         return heroService.getHeroes();
