@@ -1,17 +1,16 @@
 package com.eugene.controller;
 
+import com.eugene.model.Archive;
 import com.eugene.model.Blog;
 import com.eugene.model.Info;
+import com.eugene.model.Project;
 import com.eugene.service.BlogService;
 import com.eugene.service.InfoService;
 import com.eugene.service.ProjectService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.*;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -30,96 +29,74 @@ public class MainController {
     @Autowired
     private ProjectService projectService;
 
-    @RequestMapping("/")
+    @GetMapping("/")
     public String home() {
         return "redirect:swagger-ui.html";
     }
 
-//    @GetMapping("/")
-//    public String welcome(Model model) {
-//        model.addAttribute("info",infoService.getInfo());
-//        return "index";
-//    }
+    @GetMapping("/info")
+    public @ResponseBody Info getInfo() {
+        return infoService.getInfo();
+    }
 
     @GetMapping("/archives/{page}")
-    public String archives(@PathVariable int page,Model model){
-        model.addAttribute("info",infoService.getInfo());
-        model.addAttribute("archives",blogService.getArchive(page));
-        model.addAttribute("pageNum",blogService.getArchiveNum());
-        model.addAttribute("current",page);
-        return "archives";
+    public @ResponseBody List<Archive> getArchives(@PathVariable int page){
+        return blogService.getArchive(page);
+    }
+    @GetMapping("/archives/num")
+    public @ResponseBody int getArchiveNum(){
+        return blogService.getArchiveNum();
     }
 
-    @GetMapping("/projects")
-    public String projects(Model model) {
-        model.addAttribute("info",infoService.getInfo());
-        return "projects";
-    }
     @GetMapping("/projects/{page}")
-    public String projectPage(@PathVariable int page,Model model) {
-        model.addAttribute("info",infoService.getInfo());
-        model.addAttribute("projects",projectService.getPros(page));
-        model.addAttribute("pageNum",projectService.getPageNum());
-        model.addAttribute("current",page);
-        return "projects";
+    public @ResponseBody List<Project> getProjects(@PathVariable int page){
+        return projectService.getPros(page);
+    }
+    @GetMapping("/projects/num")
+    public @ResponseBody int getProjectNum(){
+        return projectService.getPageNum();
     }
 
     @GetMapping("/tags")
-    public String tags(Model model) {
-        model.addAttribute("info",infoService.getInfo());
-        model.addAttribute("tags",blogService.getTagList());
-        return "tags";
+    public @ResponseBody List<String> getTags() {
+        return blogService.getTagList();
     }
     @GetMapping("/tags/{tagName}")
-    public String tagName(@PathVariable String tagName,Model model) {
-        model.addAttribute("info",infoService.getInfo());
-        List<Blog> views=blogService.getBlogByTag(tagName);
-        model.addAttribute("views",views);
-        model.addAttribute("tagName",tagName);
-        return "tagView";
+    public @ResponseBody List<Blog> getTagBlogs(@PathVariable String tagName){
+        return blogService.getBlogByTag(tagName);
     }
 
     @GetMapping("/about")
-    public String about(Model model, HttpServletResponse response) {
-        model.addAttribute("info",infoService.getInfo());
-        model.addAttribute("resume",infoService.getResumeView());
-        return "about";
+    public @ResponseBody String getResumeView() {
+        return infoService.getResumeView();
     }
 
     @GetMapping("/post/{id}")
-    public String post(@PathVariable int id,Model model) {
-        model.addAttribute("info",infoService.getInfo());
-        Blog blogView=blogService.getBlog(id);
-        Blog prev=blogService.getPrevBlog(id);
-        Blog next=blogService.getNextBlog(id);
-        model.addAttribute("prev",prev);
-        model.addAttribute("next",next);
-        model.addAttribute("article",blogView.getArticle());
-        return "post";
+    public @ResponseBody Blog getBlog(@PathVariable int id) {
+        return blogService.getBlog(id);
+    }
+    @GetMapping("/post/prev/{id}")
+    public @ResponseBody Blog getPrevBlog(@PathVariable int id) {
+        return blogService.getPrevBlog(id);
+    }
+    @GetMapping("/post/next/{id}")
+    public @ResponseBody Blog getNextBlog(@PathVariable int id) {
+        return blogService.getNextBlog(id);
     }
 
-    @GetMapping("/login")
-    public String login(HttpServletRequest request, Model model) {
-        String result = request.getParameter("result");
-        if (result != null && result.equals("fail")) {
-            model.addAttribute("success", 0);
-        }
-        return "login";
-    }
     @PostMapping("/login.action")
-    public String doLogin(Info user, HttpServletRequest request) {
+    public @ResponseBody boolean doLogin(@RequestBody Info user, HttpServletRequest request) {
         boolean result = infoService.login(user);
         if (result) {
             infoService.addSession(request, user);
-            return "redirect:/admin";
+            return true;
         } else {
-            return "redirect:/login?result=fail";
+            return false;
         }
     }
 
     @GetMapping("/logout")
-    public String logout(HttpServletRequest request) {
+    public @ResponseBody void logout(HttpServletRequest request) {
         infoService.destroySession(request);
-        return "redirect:/login";
     }
 }

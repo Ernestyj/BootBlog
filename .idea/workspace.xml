@@ -2,294 +2,266 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b774637-5616-4108-b57a-779f40d03edb" name="Default" comment="">
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\css\bootstrap-tagsinput.min.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\css\editormd.min.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\css\jcala-md.min.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\css\landing-page-dark.min.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\css\landing-page.min.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\css\login-page.min.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\css\result-page.min.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\css\sb-admin.min.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\fonts\fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\fonts\fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\fonts\fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\fonts\fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\fonts\fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\img\avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\img\dog.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\img\intro-bg-dark.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\img\intro-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\img\ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\img\loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\img\loading@2x.gif" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\img\loading@3x.gif" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\img\phones.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\js\CodeMirror.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\js\bootstrap-tagsinput.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\js\editormd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\js\front-end.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\js\jcala-form.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\js\jcala-md-form.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\js\jquery.bootstrap-growl.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\js\jquery.confirm.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\js\navbar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\comment\comment.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\comment\continuecomment.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\dialog\dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\dialog\dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\display\fullscreen.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\display\fullscreen.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\display\panel.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\display\placeholder.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\display\rulers.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\edit\closebrackets.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\edit\closetag.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\edit\continuelist.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\edit\matchbrackets.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\edit\matchtags.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\edit\trailingspace.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\fold\brace-fold.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\fold\comment-fold.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\fold\foldcode.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\fold\foldgutter.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\fold\foldgutter.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\fold\indent-fold.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\fold\markdown-fold.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\fold\xml-fold.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\hint\anyword-hint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\hint\css-hint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\hint\html-hint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\hint\javascript-hint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\hint\show-hint.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\hint\show-hint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\hint\sql-hint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\hint\xml-hint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\lint\coffeescript-lint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\lint\css-lint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\lint\javascript-lint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\lint\json-lint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\lint\lint.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\lint\lint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\lint\yaml-lint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\merge\merge.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\merge\merge.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\mode\loadmode.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\mode\multiplex.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\mode\multiplex_test.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\mode\overlay.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\mode\simple.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\runmode\colorize.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\runmode\runmode-standalone.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\runmode\runmode.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\runmode\runmode.node.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\scroll\annotatescrollbar.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\scroll\scrollpastend.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\scroll\simplescrollbars.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\scroll\simplescrollbars.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\search\match-highlighter.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\search\matchesonscrollbar.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\search\matchesonscrollbar.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\search\search.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\search\searchcursor.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\selection\active-line.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\selection\mark-selection.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\selection\selection-pointer.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\tern\tern.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\tern\tern.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\tern\worker.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addon\wrap\hardwrap.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\addons.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\codemirror.min.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\codemirror.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\apl\apl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\asterisk\asterisk.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\clike\clike.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\clojure\clojure.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\cobol\cobol.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\coffeescript\coffeescript.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\commonlisp\commonlisp.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\css\css.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\cypher\cypher.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\d\d.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\dart\dart.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\diff\diff.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\django\django.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\dockerfile\dockerfile.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\dtd\dtd.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\dylan\dylan.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\ebnf\ebnf.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\ecl\ecl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\eiffel\eiffel.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\erlang\erlang.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\forth\forth.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\fortran\fortran.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\gas\gas.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\gfm\gfm.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\gherkin\gherkin.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\go\go.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\groovy\groovy.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\haml\haml.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\haskell\haskell.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\haxe\haxe.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\htmlembedded\htmlembedded.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\htmlmixed\htmlmixed.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\http\http.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\idl\idl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\javascript\javascript.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\jinja2\jinja2.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\julia\julia.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\kotlin\kotlin.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\livescript\livescript.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\lua\lua.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\markdown\markdown.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\meta.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\mirc\mirc.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\mllike\mllike.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\modelica\modelica.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\nginx\nginx.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\ntriples\ntriples.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\octave\octave.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\pascal\pascal.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\pegjs\pegjs.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\perl\perl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\php\php.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\pig\pig.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\properties\properties.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\puppet\puppet.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\python\python.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\q\q.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\r\r.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\rpm\rpm.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\rst\rst.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\ruby\ruby.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\rust\rust.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\sass\sass.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\scheme\scheme.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\shell\shell.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\sieve\sieve.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\slim\slim.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\smalltalk\smalltalk.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\smarty\smarty.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\smartymixed\smartymixed.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\solr\solr.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\soy\soy.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\sparql\sparql.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\spreadsheet\spreadsheet.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\sql\sql.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\stex\stex.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\stylus\stylus.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\tcl\tcl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\textile\textile.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\tiddlywiki\tiddlywiki.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\tiddlywiki\tiddlywiki.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\tiki\tiki.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\tiki\tiki.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\toml\toml.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\tornado\tornado.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\turtle\turtle.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\vb\vb.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\vbscript\vbscript.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\velocity\velocity.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\verilog\verilog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\xml\xml.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\xquery\xquery.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\yaml\yaml.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\mode\z80\z80.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\modes.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\3024-day.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\3024-night.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\ambiance-mobile.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\ambiance.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\base16-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\base16-light.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\blackboard.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\cobalt.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\colorforth.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\eclipse.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\elegant.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\erlang-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\lesser-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\mbo.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\mdn-like.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\midnight.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\monokai.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\neat.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\neo.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\night.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\paraiso-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\paraiso-light.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\pastel-on-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\rubyblue.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\solarized.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\the-matrix.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\tomorrow-night-bright.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\tomorrow-night-eighties.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\twilight.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\vibrant-ink.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\xq-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\xq-light.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\codemirror\theme\zenburn.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\flowchart.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\jquery.flowchart.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\marked.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\prettify.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\raphael.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\sequence-diagram.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\lib\underscore.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\plugins\code-block-dialog\code-block-dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\plugins\emoji-dialog\emoji-dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\plugins\emoji-dialog\emoji.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\plugins\goto-line-dialog\goto-line-dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\plugins\html-entities-dialog\html-entities-dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\plugins\html-entities-dialog\html-entities.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\plugins\image-dialog\image-dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\plugins\link-dialog\link-dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\plugins\preformatted-text-dialog\preformatted-text-dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\src\main\resources\static\plugins\table-dialog\table-dialog.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\css\bootstrap-tagsinput.min.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\css\editormd.min.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\css\jcala-md.min.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\css\landing-page-dark.min.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\css\landing-page.min.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\css\login-page.min.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\css\result-page.min.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\css\sb-admin.min.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\fonts\fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\fonts\fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\fonts\fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\fonts\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\fonts\fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\img\avatar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\img\dog.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\img\intro-bg-dark.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\img\intro-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\img\ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\img\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\img\loading@2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\img\loading@3x.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\img\phones.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\js\CodeMirror.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\js\bootstrap-tagsinput.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\js\editormd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\js\front-end.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\js\jcala-form.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\js\jcala-md-form.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\js\jquery.bootstrap-growl.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\js\jquery.confirm.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\js\navbar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\comment\comment.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\comment\continuecomment.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\dialog\dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\dialog\dialog.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\display\fullscreen.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\display\fullscreen.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\display\panel.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\display\placeholder.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\display\rulers.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\edit\closebrackets.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\edit\closetag.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\edit\continuelist.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\edit\matchbrackets.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\edit\matchtags.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\edit\trailingspace.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\fold\brace-fold.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\fold\comment-fold.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\fold\foldcode.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\fold\foldgutter.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\fold\foldgutter.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\fold\indent-fold.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\fold\markdown-fold.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\fold\xml-fold.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\hint\anyword-hint.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\hint\css-hint.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\hint\html-hint.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\hint\javascript-hint.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\hint\show-hint.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\hint\show-hint.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\hint\sql-hint.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\hint\xml-hint.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\lint\coffeescript-lint.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\lint\css-lint.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\lint\javascript-lint.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\lint\json-lint.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\lint\lint.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\lint\lint.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\lint\yaml-lint.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\merge\merge.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\merge\merge.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\mode\loadmode.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\mode\multiplex.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\mode\multiplex_test.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\mode\overlay.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\mode\simple.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\runmode\colorize.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\runmode\runmode-standalone.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\runmode\runmode.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\runmode\runmode.node.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\scroll\annotatescrollbar.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\scroll\scrollpastend.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\scroll\simplescrollbars.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\scroll\simplescrollbars.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\search\match-highlighter.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\search\matchesonscrollbar.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\search\matchesonscrollbar.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\search\search.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\search\searchcursor.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\selection\active-line.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\selection\mark-selection.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\selection\selection-pointer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\tern\tern.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\tern\tern.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\tern\worker.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addon\wrap\hardwrap.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\addons.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\codemirror.min.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\codemirror.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\apl\apl.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\asterisk\asterisk.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\clike\clike.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\clojure\clojure.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\cobol\cobol.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\coffeescript\coffeescript.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\commonlisp\commonlisp.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\css\css.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\cypher\cypher.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\d\d.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\dart\dart.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\diff\diff.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\django\django.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\dockerfile\dockerfile.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\dtd\dtd.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\dylan\dylan.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\ebnf\ebnf.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\ecl\ecl.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\eiffel\eiffel.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\erlang\erlang.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\forth\forth.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\fortran\fortran.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\gas\gas.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\gfm\gfm.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\gherkin\gherkin.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\go\go.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\groovy\groovy.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\haml\haml.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\haskell\haskell.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\haxe\haxe.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\htmlembedded\htmlembedded.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\htmlmixed\htmlmixed.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\http\http.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\idl\idl.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\javascript\javascript.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\jinja2\jinja2.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\julia\julia.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\kotlin\kotlin.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\livescript\livescript.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\lua\lua.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\markdown\markdown.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\meta.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\mirc\mirc.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\mllike\mllike.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\modelica\modelica.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\nginx\nginx.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\ntriples\ntriples.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\octave\octave.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\pascal\pascal.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\pegjs\pegjs.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\perl\perl.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\php\php.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\pig\pig.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\properties\properties.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\puppet\puppet.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\python\python.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\q\q.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\r\r.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\rpm\rpm.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\rst\rst.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\ruby\ruby.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\rust\rust.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\sass\sass.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\scheme\scheme.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\shell\shell.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\sieve\sieve.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\slim\slim.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\smalltalk\smalltalk.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\smarty\smarty.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\smartymixed\smartymixed.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\solr\solr.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\soy\soy.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\sparql\sparql.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\spreadsheet\spreadsheet.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\sql\sql.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\stex\stex.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\stylus\stylus.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\tcl\tcl.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\textile\textile.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\tiddlywiki\tiddlywiki.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\tiddlywiki\tiddlywiki.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\tiki\tiki.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\tiki\tiki.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\toml\toml.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\tornado\tornado.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\turtle\turtle.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\vb\vb.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\vbscript\vbscript.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\velocity\velocity.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\verilog\verilog.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\xml\xml.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\xquery\xquery.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\yaml\yaml.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\mode\z80\z80.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\modes.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\3024-day.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\3024-night.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\ambiance-mobile.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\ambiance.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\base16-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\base16-light.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\blackboard.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\cobalt.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\colorforth.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\eclipse.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\elegant.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\erlang-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\lesser-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\mbo.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\mdn-like.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\midnight.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\monokai.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\neat.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\neo.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\night.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\paraiso-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\paraiso-light.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\pastel-on-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\rubyblue.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\solarized.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\the-matrix.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\tomorrow-night-bright.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\tomorrow-night-eighties.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\twilight.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\vibrant-ink.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\xq-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\xq-light.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\codemirror\theme\zenburn.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\flowchart.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\jquery.flowchart.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\marked.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\prettify.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\raphael.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\sequence-diagram.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\lib\underscore.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\plugins\code-block-dialog\code-block-dialog.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\plugins\emoji-dialog\emoji-dialog.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\plugins\emoji-dialog\emoji.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\plugins\goto-line-dialog\goto-line-dialog.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\plugins\html-entities-dialog\html-entities-dialog.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\plugins\html-entities-dialog\html-entities.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\plugins\image-dialog\image-dialog.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\plugins\link-dialog\link-dialog.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\plugins\preformatted-text-dialog\preformatted-text-dialog.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\ProgramData\BootBlog\build\resources\main\static\plugins\table-dialog\table-dialog.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BootBlog.iml" afterPath="$PROJECT_DIR$/BootBlog.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/eugene/controller/HeroController.java" afterPath="$PROJECT_DIR$/src/main/java/com/eugene/controller/HeroController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/eugene/mapper/HeroMapper.java" afterPath="$PROJECT_DIR$/src/main/java/com/eugene/mapper/HeroMapper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/eugene/service/HeroService.java" afterPath="$PROJECT_DIR$/src/main/java/com/eugene/service/HeroService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/eugene/service/HeroServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/eugene/service/HeroServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/eugene/controller/InfoController.java" afterPath="$PROJECT_DIR$/src/main/java/com/eugene/controller/InfoController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/eugene/service/InfoServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/eugene/service/InfoServiceImpl.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/eugene/controller/MainController.java" afterPath="$PROJECT_DIR$/src/main/java/com/eugene/controller/MainController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/app-routing.module.js.map" afterPath="$PROJECT_DIR$/angular-quickstart/app/app-routing.module.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/app-routing.module.js" afterPath="$PROJECT_DIR$/angular-quickstart/app/app-routing.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/app.component.js.map" afterPath="$PROJECT_DIR$/angular-quickstart/app/app.component.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/app.component.js" afterPath="$PROJECT_DIR$/angular-quickstart/app/app.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/app.component.ts" afterPath="$PROJECT_DIR$/angular-quickstart/app/app.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/app.module.js.map" afterPath="$PROJECT_DIR$/angular-quickstart/app/app.module.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/app.module.js" afterPath="$PROJECT_DIR$/angular-quickstart/app/app.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/app.module.ts" afterPath="$PROJECT_DIR$/angular-quickstart/app/app.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/dashboard.component.js.map" afterPath="$PROJECT_DIR$/angular-quickstart/app/dashboard.component.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/dashboard.component.js" afterPath="$PROJECT_DIR$/angular-quickstart/app/dashboard.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/hero-detail.component.js.map" afterPath="$PROJECT_DIR$/angular-quickstart/app/hero-detail.component.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/hero-detail.component.js" afterPath="$PROJECT_DIR$/angular-quickstart/app/hero-detail.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/hero-search.component.js.map" afterPath="$PROJECT_DIR$/angular-quickstart/app/hero-search.component.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/hero-search.component.js" afterPath="$PROJECT_DIR$/angular-quickstart/app/hero-search.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/hero-search.component.ts" afterPath="$PROJECT_DIR$/angular-quickstart/app/hero-search.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/hero-search.service.js.map" afterPath="$PROJECT_DIR$/angular-quickstart/app/hero-search.service.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/hero-search.service.js" afterPath="$PROJECT_DIR$/angular-quickstart/app/hero-search.service.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/hero.js.map" afterPath="$PROJECT_DIR$/angular-quickstart/app/hero.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/hero.js" afterPath="$PROJECT_DIR$/angular-quickstart/app/hero.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/hero.service.js.map" afterPath="$PROJECT_DIR$/angular-quickstart/app/hero.service.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/hero.service.js" afterPath="$PROJECT_DIR$/angular-quickstart/app/hero.service.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/hero.ts" afterPath="$PROJECT_DIR$/angular-quickstart/app/hero.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/heroes.component.js.map" afterPath="$PROJECT_DIR$/angular-quickstart/app/heroes.component.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/heroes.component.js" afterPath="$PROJECT_DIR$/angular-quickstart/app/heroes.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/main.js.map" afterPath="$PROJECT_DIR$/angular-quickstart/app/main.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/main.js" afterPath="$PROJECT_DIR$/angular-quickstart/app/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/package.json" afterPath="$PROJECT_DIR$/angular-quickstart/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/rxjs-extensions.js.map" afterPath="$PROJECT_DIR$/angular-quickstart/app/rxjs-extensions.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-quickstart/app/rxjs-extensions.js" afterPath="$PROJECT_DIR$/angular-quickstart/app/rxjs-extensions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/eugene/controller/MonitorController.java" afterPath="$PROJECT_DIR$/src/main/java/com/eugene/controller/MonitorController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-blog/app/app.component.ts" afterPath="$PROJECT_DIR$/angular-blog/app/app.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-blog/app/app.module.ts" afterPath="$PROJECT_DIR$/angular-blog/app/app.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-blog/index.html" afterPath="$PROJECT_DIR$/angular-blog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-blog/package.json" afterPath="$PROJECT_DIR$/angular-blog/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-blog/systemjs.config.js" afterPath="$PROJECT_DIR$/angular-blog/systemjs.config.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MOVED" beforePath="E:\ProgramData\BootBlog\src\main\java\com\eugene\WebMVCConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/eugene/WebMvcConfig.java" />
-      <change type="MOVED" beforePath="E:\ProgramData\BootBlog\src\main\java\com\eugene\service\MoniterService.java" afterPath="$PROJECT_DIR$/src/main/java/com/eugene/service/MonitorService.java" />
-      <change type="MOVED" beforePath="E:\ProgramData\BootBlog\src\main\java\com\eugene\service\MoniterServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/eugene/service/MonitorServiceImpl.java" />
+      <change type="MOVED" beforePath="E:\ProgramData\BootBlog\src\main\java\com\eugene\controller\HeroController.java" afterPath="$PROJECT_DIR$/src/main/java/com/eugene/HeroController.java" />
     </list>
     <ignored path="BootBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -371,9 +343,12 @@
       <file leaf-file-name="MainController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.4748201">
-              <caret line="101" column="18" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
-              <folding />
+            <state vertical-scroll-proportion="0.09409191">
+              <caret line="90" column="29" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="29" />
+              <folding>
+                <element signature="e#2930#2931#0" expanded="true" />
+                <element signature="e#2981#2982#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -860,11 +835,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/eugene/service/HeroServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eugene/mapper/HeroMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eugene/controller/HeroController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eugene/controller/MainController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eugene/controller/BlogController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eugene/WebMvcConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eugene/controller/InfoController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eugene/controller/MonitorController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eugene/controller/ProjectController.java" />
         <option value="$PROJECT_DIR$/angular2-orig/package.json" />
         <option value="$PROJECT_DIR$/angular2-orig/tsconfig.json" />
@@ -873,6 +844,12 @@
         <option value="$PROJECT_DIR$/angular2-orig/app/app.module.ts" />
         <option value="$PROJECT_DIR$/angular2-orig/app/main.ts" />
         <option value="$PROJECT_DIR$/angular2-orig/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eugene/HeroController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eugene/controller/MonitorController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eugene/controller/InfoController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eugene/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eugene/WebMvcConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eugene/service/InfoServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -919,9 +896,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -971,6 +945,10 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -998,8 +976,103 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eugene" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eugene" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-quickstart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-quickstart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1034,6 +1107,9 @@
       <recent name="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\component" />
       <recent name="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\template" />
       <recent name="E:\ProgramData\BootBlog\src\main\resources\angular-quickstart\app\css" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.eugene" />
     </key>
   </component>
   <component name="RunManager" selected="Gradle.BootBlog [bootRun]">
@@ -1387,11 +1463,14 @@
       <workItem from="1478760196829" duration="6635000" />
       <workItem from="1478766895805" duration="778000" />
       <workItem from="1478767768536" duration="17974000" />
+      <workItem from="1479032164232" duration="46676000" />
+      <workItem from="1479349255649" duration="3196000" />
+      <workItem from="1479354361054" duration="7574000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33157000" />
+    <option name="totallyTimeSpent" value="90603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1444" height="886" extended-state="0" />
@@ -1405,14 +1484,14 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22281167" sideWeight="0.49710983" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3541114" sideWeight="0.49710983" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21820809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18569364" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16329479" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17702313" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16473988" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -1425,7 +1504,7 @@
       <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.198939" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1448,323 +1527,80 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/controller/HeroController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#1092#1093#0" expanded="true" />
-            <element signature="e#1141#1142#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/controller/HeroController.java">
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/dashboard.component.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#1092#1093#0" expanded="true" />
-            <element signature="e#1141#1142#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/controller/HeroController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#1092#1093#0" expanded="true" />
-            <element signature="e#1141#1142#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28278688">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.3.RELEASE/f963d559a56e848d01f973e4eb8c2428b6d8a6cd/spring-web-4.3.3.RELEASE-sources.jar!/org/springframework/web/bind/annotation/CrossOrigin.java">
+    <entry file="file://$PROJECT_DIR$/angular-blog/static/css/landing-page.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3319672">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular-quickstart/node_modules/@angular/http/src/body.d.ts">
+    <entry file="file://$PROJECT_DIR$/angular-blog/static/css/jcala-md.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15883978">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.d.ts">
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/component/hero-form.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.01519337">
-          <caret line="956" column="6" selection-start-line="956" selection-start-column="6" selection-end-line="956" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.28956833">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/dashboard.component.ts">
+    <entry file="file://$PROJECT_DIR$/angular-blog/templates/module/header.vm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60359114">
-          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+        <state vertical-scroll-proportion="-5.75">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-blog/templates/module/footer.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-blog/templates/index.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.8874046">
+          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/model/Info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24820144">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/angular-quickstart/app/hero.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.063535914">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.08273381">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/hero.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2859116">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1478851577824" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/model/Hero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76243097">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/model/Blog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22237569">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.3.RELEASE/56718cbc3332feeacfc988358d4064510a13a06d/spring-context-4.3.3.RELEASE-sources.jar!/org/springframework/stereotype/Repository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49171272">
-          <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.0/3016ffd7d9d008bf6b230d01de711f9da046d68e/mybatis-3.4.0-sources.jar!/org/apache/ibatis/annotations/Mapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44475138">
-          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/service/InfoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25414366">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/model/Info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.15883978">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/service/InfoServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="80" column="15" selection-start-line="80" selection-start-column="15" selection-end-line="80" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.3.3.RELEASE/fc6f6a9856f09e35df726653b8b58620e45cdac3/spring-webmvc-4.3.3.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/CorsRegistration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80701756">
-          <caret line="65" column="28" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/mapper/BlogMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.1973684">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/mapper/InfoMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.050438598">
-          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="52" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/mapper/ProjectMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13157895">
-          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="50" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/service/HeroService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5548246">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/mapper/HeroMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7872807">
-          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/service/HeroServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34429824">
-          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/controller/HeroController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#1092#1093#0" expanded="true" />
-            <element signature="e#1141#1142#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.3.3.RELEASE/fc6f6a9856f09e35df726653b8b58620e45cdac3/spring-webmvc-4.3.3.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/InterceptorRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/controller/BlogController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.100877196">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/controller/InfoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4714912">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/controller/MonitorController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5548246">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/WebMvcConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.90789473">
-          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/controller/ProjectController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular2-orig/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8915094">
-          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular2-orig/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6509434">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-quickstart/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.4627193">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular2-orig/styles.css">
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/rxjs-extensions.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1772,47 +1608,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular2-orig/index.html">
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/app.module.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2476416">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular2-orig/app/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05386417">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular2-orig/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10772834">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular2-orig/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.323185">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular2-orig/systemjs.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24342105">
-          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-quickstart/index.html">
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/hero-search.service.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1822,9 +1626,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/angular-quickstart/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26335877">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="26" />
-          <folding />
+        <state vertical-scroll-proportion="0.41221374">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -1836,7 +1639,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular-quickstart/tsconfig.json">
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/hero-search.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.41366908">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6618705">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/template/heroes.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/template/hero-detail.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1844,19 +1684,241 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37230214">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/mapper/BlogMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3327338">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/service/BlogServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45683452">
+          <caret line="163" column="39" selection-start-line="163" selection-start-column="39" selection-end-line="163" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/model/Blog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41366908">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/model/Archive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41366908">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/model/Project.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5377698">
+          <caret line="13" column="35" selection-start-line="8" selection-start-column="12" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/dashboard.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.78727275">
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/template/hero-form.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/heroes.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37636364">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/template/dashboard.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/service/ProjectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5018182">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/service/BlogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/hero-detail.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29272726">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/controller/ProjectController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37636364">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/service/MonitorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29272726">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/controller/MonitorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.66150445">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/utils/FileTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25442478">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/service/HeroServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6858407">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/HeroController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.1039823">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/mapper/InfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3318584">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.5.5/8fba0794c4e378e4cef379d15780ee2ce2808530/tomcat-embed-core-8.5.5-sources.jar!/javax/servlet/http/HttpSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.8424507">
+          <caret line="219" column="16" selection-start-line="219" selection-start-column="16" selection-end-line="219" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50328225">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/WebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.89934355">
+          <caret line="55" column="39" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/service/InfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42888403">
+          <caret line="98" column="18" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/service/InfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39606127">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-quickstart/app/hero.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/controller/BlogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.45295405">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/controller/InfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9124726">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <element signature="e#1293#1294#0" expanded="true" />
+            <element signature="e#1341#1342#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eugene/controller/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.4748201">
-          <caret line="101" column="18" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
-          <folding />
+        <state vertical-scroll-proportion="0.09409191">
+          <caret line="90" column="29" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="29" />
+          <folding>
+            <element signature="e#2930#2931#0" expanded="true" />
+            <element signature="e#2981#2982#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

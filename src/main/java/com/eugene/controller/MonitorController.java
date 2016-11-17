@@ -4,6 +4,7 @@ import com.eugene.service.MonitorService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.servlet.http.HttpServletRequest;
@@ -16,9 +17,8 @@ public class MonitorController {
     @Autowired
     private MonitorService moniterService;
 
-    @GetMapping("/admin")
-    public String moniter(Model model, HttpServletRequest request) throws Exception {
-        model.addAttribute("freeMemory", moniterService.getFreeMemery());
-        return "admin/moniter";
+    @GetMapping("/admin/monitor")
+    public @ResponseBody int getMonitor() throws Exception {
+        return moniterService.getFreeMemery();
     }
 }

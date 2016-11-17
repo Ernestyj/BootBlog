@@ -12,6 +12,7 @@ import org.springframework.transaction.annotation.Isolation;
 import org.springframework.transaction.annotation.Transactional;
 
 import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 /**
@@ -101,7 +102,7 @@ public class InfoServiceImpl implements InfoService {
     @Override
     public void destroySession(HttpServletRequest request){
         HttpSession session = request.getSession(false);
-        session.removeAttribute("cur_user");
+        if(session!=null) session.removeAttribute("cur_user");
     }
     @Override
     public String getResumeMd(){

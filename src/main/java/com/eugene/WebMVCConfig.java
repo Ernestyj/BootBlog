@@ -17,13 +17,14 @@ import javax.servlet.http.HttpServletResponse;
  */
 @Configuration
 public class WebMvcConfig extends WebMvcConfigurerAdapter {
+
     @Override
     public void addCorsMappings(CorsRegistry registry) {
         registry.addMapping("/**")
-            .allowedOrigins("*")
-            .allowedHeaders("Content-Type")
-            .allowedMethods("GET", "POST", "PUT", "DELETE")
-            .maxAge(1800);//30min
+                .allowedOrigins("*")
+                .allowedHeaders("Content-Type")
+                .allowedMethods("GET", "POST", "PUT", "DELETE")
+                .maxAge(1800);//30min
     }
 
     @Override
@@ -33,25 +34,26 @@ public class WebMvcConfig extends WebMvcConfigurerAdapter {
 
     @Override
     public void addInterceptors(InterceptorRegistry registry) {
-        registry.addInterceptor(new HandlerInterceptor() {
-            @Override
-            public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {
-                Object obj = request.getSession().getAttribute("cur_user");
-                if (obj == null || !(obj instanceof Info)) {
-                    response.sendRedirect(request.getContextPath() + "/login");
-                    return false;
-                }
-                return true;
-            }
-
-            @Override
-            public void postHandle(HttpServletRequest request, HttpServletResponse response, Object handler, ModelAndView modelAndView) throws Exception {
-            }
-
-            @Override
-            public void afterCompletion(HttpServletRequest request, HttpServletResponse response, Object handler, Exception ex) throws Exception {
-            }
-        }).addPathPatterns("/admin/**");
+//        registry.addInterceptor(new HandlerInterceptor() {
+//            @Override
+//            public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {
+//                Object obj = request.getSession().getAttribute("cur_user");
+//                if (obj == null || !(obj instanceof Info)) {
+//                    //response.sendRedirect(request.getContextPath() + "/login");
+//                    return false;
+//                }
+//                return true;
+//            }
+//
+//            @Override
+//            public void postHandle(HttpServletRequest request, HttpServletResponse response, Object handler, ModelAndView modelAndView) throws Exception {
+//            }
+//
+//            @Override
+//            public void afterCompletion(HttpServletRequest request, HttpServletResponse response, Object handler, Exception ex) throws Exception {
+//            }
+//        })
+//        .addPathPatterns("/admin/**");
     }
 
 }

@@ -1,0 +1,11 @@
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 post">
+            <ul class="tags" *ngFor="let tag of tags">
+                <li>
+                    <a class="default-tag" routerLink="/tags/{{tag}}" routerLinkActive="active">{{tag}}</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

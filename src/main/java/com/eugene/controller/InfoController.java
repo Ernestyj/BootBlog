@@ -4,10 +4,7 @@ import com.eugene.model.Info;
 import com.eugene.service.InfoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import javax.servlet.http.HttpServletRequest;
 
@@ -19,14 +16,6 @@ import javax.servlet.http.HttpServletRequest;
 public class InfoController {
     @Autowired
     private InfoService infoService;
-
-    @GetMapping("/info")
-    public String info(Model model) throws Exception {
-        Info info = infoService.getInfo();
-        model.addAttribute("info", info);
-        return "admin/info";
-    }
-
 
     @PostMapping("/info.action")
     public String updateInfo(Info info, Model model) {
@@ -51,9 +40,8 @@ public class InfoController {
     }
 
     @GetMapping("/resume")
-    public String resume(Model model) {
-        model.addAttribute("md", infoService.getResumeMd());
-        return "admin/resume";
+    public @ResponseBody String getResumeMd() {
+        return infoService.getResumeMd();
     }
     @PostMapping("/resume.action")
     public String resumeUpdate(Info info, Model model) {

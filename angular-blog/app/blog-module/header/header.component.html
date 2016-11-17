@@ -1,0 +1,62 @@
+<nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
+    <div class="container topnav">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a routerLink="/home" routerLinkActive="active" class="navbar-brand topnav">Home</a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right myBar">
+                <li>
+                    <a routerLink="/archives/1" routerLinkActive="active">Archives</a>
+                </li>
+                <li>
+                    <a routerLink="/tags" routerLinkActive="active">Tags</a>
+                </li>
+                <li>
+                    <a routerLink="/projects/1" routerLinkActive="active">Projects</a>
+                </li>
+                <li>
+                    <a routerLink="/about" routerLinkActive="active">About</a>
+                </li>
+                <li>
+                    <a routerLink="/admin/" routerLinkActive="active">Admin</a>
+                </li>
+                <li>
+                    <a href='javascript:void(0)' onclick="day_night()"><i class="fa fa-moon-o" id="day-night"></i>
+                        <span class="network-name" id="day-night-name">night</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="intro-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="intro-message">
+                    <h1>{{info?.username}}</h1>
+                    <h3>my blog about programming</h3>
+                    <hr class="intro-divider"/>
+                    <ul class="list-inline intro-social-buttons">
+                        <li>
+                            <a routerLink="{{info?.email}}" class="btn btn-default btn-lg"><i class="fa fa-envelope fa-fw"></i> <span class="network-name">Email</span></a>
+                        </li>
+                        <li>
+                            <a routerLink="{{info?.github}}" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                        </li>
+                        <li>
+                            <a routerLink="{{info?.twitter}}" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<a href="#content" id="blog_content"></a>
